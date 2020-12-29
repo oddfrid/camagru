@@ -1,0 +1,56 @@
+.tabs {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.tab {
+    font-size: 24px;
+}
+.tab-left {
+    border-radius: 4px 0 0 0;
+}
+.tab-right {
+    border-radius: 0 4px 0 0;
+}
+.tabcontent {
+    display: none;
+}
+.welcome {
+    text-align: center;
+    /*TODO обавить анимацию перехода цвета из розового в рыжий */
+    color: #EB068F;
+    place-self: center;
+}
+.wrap-reg {
+    display: grid;
+    grid-template-rows: 100px auto;
+}
+.field {
+    min-width: 300px;
+    border-radius: 4px;
+    box-shadow: 0 12px  24px var(--color-shadow);
+    background: transparent;
+}
+.formwrap {
+    padding: 20px 30px;
+    display: grid;
+    place-content: center;
+    row-gap: 12px;
+}
+.form-field {
+    display: grid;
+}
+.forgot-pswd-link {
+    justify-self: end;
+}
+
+.btn-login, .btn-reg {
+    justify-self: center;
+    align-self: end;
+}
+
+@media (min-width: 786px) {
+    .logo {
+        width: 150%;
+        height: 150%;
+    }
+}

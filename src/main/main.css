@@ -1,0 +1,13 @@
+.wrap {
+    overflow: hidden;
+    padding: 48px 8px;
+    height: 100vh;
+    position: relative;
+    background: var(--color-pink-background);
+    color: var(--color-black);
+}
+@media (min-width: 786px) {
+    .wrap {
+        padding: 64px 16%;
+    }
+}

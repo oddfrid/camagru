@@ -1,0 +1,45 @@
+input {
+    border: none;
+    outline: none;
+}
+input[placeholder] {
+    opacity: 80%;
+}
+.input-wrap {
+    border-radius: 4px;
+    border: 1px solid var(--color-primary);
+    outline: none;
+    padding: 0 20px 0 40px;
+    position: relative;
+    display: grid;
+    align-items: center;
+}
+.input-wrap:focus-within {
+    box-shadow: 0 0 2px 2px var(--color-shadow);
+}
+.input-48 {
+    width: 348px;
+    height: 48px;
+}
+.input-48 > input, .input-48 > input::placeholder {
+    font-size: 20px;
+}
+.input-48::before {
+    position: absolute;
+    content: url("../../assets/icons/search-24.svg");
+    top: 12px;
+    left: 5px;
+}
+.input-32 {
+    width: 296px;
+    height: 32px;
+}
+.input-32 > input, .input-32 > input::placeholder {
+    font-size: 18px;
+}
+.input-32::before {
+    position: absolute;
+    content: url("../../assets/icons/search-24.svg");
+    top: 4px;
+    left: 5px;
+}

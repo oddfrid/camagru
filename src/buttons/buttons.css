@@ -1,0 +1,100 @@
+.btn {
+    z-index: 1;
+    background: var(--color-pink-usual);
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    color: var(--color-primary);
+    display: grid;
+    grid-template-columns: repeat(2, max-content);
+    place-content: center;
+    font-weight: 600;
+}
+.btn:hover{
+    background: linear-gradient(var(--color-pink-usual), var(--color-pink-background));
+    color: var(--color-secondary);
+}
+.btn:active{
+    background: var(--color-pink-active);
+    color: var(--color-pink-background);
+    fill: var(--color-pink-background);
+}
+
+.btn:focus {
+    box-shadow: 0 0 2px 2px var(--color-shadow);
+}
+.btn-64{
+    width: 64px;
+    height: 64px;
+}
+.btn-48{
+    width: 48px;
+    height: 48px;
+}
+.btn-192x64{
+    width: 192px;
+    height: 64px;
+    font-size: 24px;
+}
+.btn-192x48{
+    width: 192px;
+    height: 48px;
+    font-size: 18px;
+}
+.btn-192x32{
+    width: 192px;
+    height: 32px;
+    font-size: 18px;
+}
+.btn-120x48{
+    width: 120px;
+    height: 48px;
+    font-size: 32px;
+}
+/* TODO мб пофикcить ширину */
+.btn-86x48{
+    width: 86px;
+    height: 48px;
+    place-content: center;
+}
+/* TODO разобраться с градиентной иконкой */
+.icon {
+    fill: var(--color-primary);
+}
+.icon-hovered {
+    fill: var(--color-secondary);
+}
+.inline-icon {
+    display: inline-block;
+    align-self: center;
+}
+.icon-back {
+    display: inline-block;
+    align-self: center;
+    margin-left: -5px;
+}
+.icon-counter {
+    display: inline-block;
+    align-self: center;
+    margin-left: 5px;
+}
+.active {
+    z-index: 2;
+    background: var(--color-pink-active);
+    color: var(--color-pink-background);
+    fill: var(--color-pink-background);
+}
+
+/* TODO delete below */
+.row {
+    display: grid;
+    grid-template-columns: 200px repeat(5, 80px) 200px repeat(8, 80px);
+    justify-items: center;
+    grid-template-rows: repeat(1, 80px);
+}
+.row-1 {
+    display: grid;
+    grid-template-columns: repeat(6, 200px);
+    justify-items: center;
+    grid-template-rows: repeat(1, 80px);
+}

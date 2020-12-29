@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f1531a4-5b35-490e-8a7e-6269342537c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lNt8vVbitr3to2lOD5wRwgBhuV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\WebstormProjects\Camagru\assets\avatars" />
+      <recent name="C:\Users\Сергей\WebstormProjects\Camagru\assets\loaders" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\Camagru\src\footer" />
+      <recent name="F:\xampp\htdocs\Camagru\src\headers" />
+      <recent name="F:\xampp\htdocs\Camagru\src\headers\registration" />
+      <recent name="F:\xampp\htdocs\Camagru" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f1531a4-5b35-490e-8a7e-6269342537c2" name="Default Changelist" comment="" />
+      <created>1607449227025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607449227025</updated>
+      <workItem from="1607449231664" duration="730000" />
+      <workItem from="1607871273724" duration="3048000" />
+      <workItem from="1608285354730" duration="1000000" />
+      <workItem from="1608292935982" duration="1240000" />
+      <workItem from="1608369375666" duration="25397000" />
+      <workItem from="1608630660785" duration="1186000" />
+      <workItem from="1608651347185" duration="6121000" />
+      <workItem from="1608745730201" duration="3955000" />
+      <workItem from="1608754512788" duration="102000" />
+      <workItem from="1608803488342" duration="22739000" />
+      <workItem from="1608996699734" duration="549000" />
+      <workItem from="1608997766895" duration="70000" />
+      <workItem from="1609160326543" duration="3323000" />
+      <workItem from="1609164613730" duration="663000" />
+      <workItem from="1609227229260" duration="1831000" />
+      <workItem from="1609230186315" duration="8989000" />
+      <workItem from="1609268958043" duration="599000" />
+      <workItem from="1609278113445" duration="664000" />
+      <workItem from="1609280399675" duration="866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
